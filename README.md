@@ -21,7 +21,7 @@ A Bill Of Materials detailing the specific parts used in our most recent product
 * [Pixel (WS2811/WS2812) Version](https://octopart.com/bom-tool/HFxE4Ql2)
 * [DMX (RS-485) Version](https://octopart.com/bom-tool/G0dtO20q)
 
-NOTE: If desired, boards can be populated for both DMX and Pixel use.
+Note: If desired, boards can be populated for both DMX and Pixel use.  (Output mode defined by firmware configuration.)
 
 
 Repository Contents
