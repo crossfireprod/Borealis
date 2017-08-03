@@ -28,7 +28,7 @@ Repository Contents
 -------------------
 
 * **/Hardware** - Eagle Schematic & PCB Layout
-* **/Images** - Images of the schematic / PCB design, as well as a fully unit.
+* **/Images** - Images of the schematic / PCB design, as well as a fully assembled unit.
 
 License
 -------------------
