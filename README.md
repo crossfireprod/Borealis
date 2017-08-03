@@ -1,7 +1,7 @@
-# Borealis
+Borealis
 ==================
 
-![Borealis Assembled - Top Profile](/Images/Assembled_TopProfile.jpg)  
+![Borealis Assembled - Top Profile](/Images/Assembled_TopProfile_rev2.jpg)  
 
 WS2812/DMX Light Controller For the [ESPixelStick Firmware](https://github.com/forkineye/ESPixelStick) by Shelby Merrick (forkineye).  Hardware supports both DMX (RS-485) and Pixel (WS2811/WS2812) output modes.
 
