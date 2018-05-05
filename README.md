@@ -28,7 +28,7 @@ Repository Contents
 -------------------
 
 * **/Hardware** - Eagle Schematic & PCB Layout
-* **/Software** - [Platformio](http://platformio.org/) project containing [ESPixelStick Firmware](https://github.com/forkineye/ESPixelStick) firmware.
+* **/Software** - [Platformio](http://platformio.org/) project containing [ESPixelStick Firmware](https://github.com/forkineye/ESPixelStick).
 * **/Images** - Images of the schematic / PCB design, as well as a fully assembled unit.
 
 License
